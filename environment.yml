@@ -3,5 +3,5 @@ dependencies:
   - numpy
   - pandas
   - pip:
-    - urllib==1.25.6
+    - urllib.request==3.7
     - bs4==0.0.1
