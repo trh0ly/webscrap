@@ -1,0 +1,6 @@
+name: climate
+dependencies:
+  - numpy
+  - pandas
+  - urllib.request
+  - bs4
