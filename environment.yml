@@ -2,5 +2,6 @@ name: climate
 dependencies:
   - numpy
   - pandas
-  - urllib.request
-  - bs4
+  - pip:
+    -urllib.request==1.25.6
+    -bs4==0.0.1
